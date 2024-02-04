@@ -1,4 +1,4 @@
-#Proyecto 1 - React
+# Proyecto 1 - React
 <p>
 Tecnologias utilizadas:
 </p>
